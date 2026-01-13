@@ -1,6 +1,6 @@
 # 🏥Healthcare Performance Insights: Growth, Trends & Opportunities 
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project presents an interactive healthcare performance dashboard built using Tableau, analyzing the operational and financial performance of multiple healthcare clinics across a region.
 
@@ -8,7 +8,7 @@ The dashboard focuses on revenue, profitability, patient trends, satisfaction, a
 
 To interact with the dashboard open the below link -->  https://lnkd.in/djfCb_Pk
 
-📊 Key Metrics at a Glance
+# 📊 Key Metrics at a Glance
 
 💰 Total Revenue: $8.43M
 
@@ -18,7 +18,7 @@ To interact with the dashboard open the below link -->  https://lnkd.in/djfCb_Pk
 
 🧑‍⚕️ Patients Served: 25.43K
 
-🔍 Key Insights & Findings
+# 🔍 Key Insights & Findings
 💰 Revenue & Profitability
 
 Strong overall profitability with a ~70% profit margin
@@ -69,7 +69,7 @@ February: $361.98K
 
 361.98K
 
-🛠️ Tools & Techniques Used
+# 🛠️ Tools & Techniques Used
 
 Tableau Desktop
 
@@ -87,11 +87,11 @@ Specialty
 
 Time (Month)
 
-📷 Dashboard Preview
+# 📷 Dashboard Preview
 
 <img width="1874" height="1124" alt="Healthcare_dashboard" src="https://github.com/user-attachments/assets/cbf62dd3-ef41-40cf-81a3-6cd200edf9ff" />
 
-🎯 Business Value
+# 🎯 Business Value
 
 This dashboard enables:
 
@@ -103,7 +103,7 @@ Improved patient retention strategies
 
 Better financial and operational planning
 
-🚀 Learning Outcomes
+# 🚀 Learning Outcomes
 
 Building this dashboard helped me strengthen my skills in:
 
