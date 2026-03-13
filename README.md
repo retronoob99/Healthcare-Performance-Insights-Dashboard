@@ -67,8 +67,6 @@ January: $1.036M
 
 February: $361.98K
 
-361.98K
-
 # 🛠️ Tools & Techniques Used
 
 Tableau Desktop
@@ -114,7 +112,3 @@ Dashboard design & aesthetics
 Healthcare analytics
 
 Translating complex data into actionable insights
-
-Specialty
-
-Time (Month)
